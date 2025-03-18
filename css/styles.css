@@ -11895,7 +11895,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 1.2em;
 }
 .footer a:hover {
-  color: var(--bs-body-four);
+  color: var(--bs-body-one);
 }
 /* ------------------------------------------------Start Navigation---------------------------------------------------- */
 
