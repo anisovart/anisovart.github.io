@@ -119,17 +119,17 @@
   --bs-body-four: #6B39BD;
   --bs-body-five: #171724; */
 
-  /* --bs-body-one: #B6CACE;
+  --bs-body-one: #F4F2F3;
   --bs-body-two: #3CBFBF;
   --bs-body-three: #14B1BB;
   --bs-body-four: #428C99;
-  --bs-body-five: #375F6F; */
+  --bs-body-five: #182630;
 
-  --bs-body-one: #D8EAD5;
+  /* --bs-body-one: #D8EAD5;
   --bs-body-two: #28D6CE;
   --bs-body-three: #14B1BB;
   --bs-body-four: #375F6F;
-  --bs-body-five: #1C3E51;
+  --bs-body-five: #1C3E51; */
 
 
 
@@ -11425,6 +11425,9 @@ p {
   margin-bottom: 4rem;
 }
 
+.our-services {
+  background-color: var(--bs-body-one);
+}
 @media (min-width: 768px) {
   section {
     padding: 9rem 0;
@@ -13140,7 +13143,7 @@ section#contact {
   overflow: hidden;
   background-color: var(--bs-body-four);
   color: var(--bs-body-bg);
-  border: 2px solid  var(--bs-body-four);
+  /* border: 2px solid  var(--bs-body-four); */
   /* color: var(--bs-body-bg);
   background-color: transparent;
   border: 2px solid var(--bs-body-bg); */
@@ -13164,7 +13167,7 @@ section#contact {
 .slider-button:hover {
   color: var(--bs-body-bg);
   background-color: var(--bs-body-five);
-  border: 2px solid var(--bs-body-bg);
+  /* border: 2px solid var(--bs-body-bg); */
   text-decoration: none;
 }
 .swiper-button-next {
