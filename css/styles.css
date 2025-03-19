@@ -11416,6 +11416,17 @@ p {
   color: var(--bs-body-four);
 }
 
+/* .page-section h3.section-heading, .page-section .section-heading.h3 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+  color: var(--bs-body-four);
+} */
+.services {
+  color: var(--bs-body-four);
+}
+
+
 .page-section h2.section-heading.title-light {
   color: var(--bs-body-bg);
 }
@@ -12073,7 +12084,7 @@ a.cv_btn:hover {
   }
 } 
 @media (max-width: 992px) {
-  .navbar-shrink .brand-name1 {
+  .navbar-shrink .brand-name1, .navbar-shrink .brand-name2 {
     color: var(--bs-body-bg);
   }
   #mainNav .navbar-nav .nav-item .nav-link {

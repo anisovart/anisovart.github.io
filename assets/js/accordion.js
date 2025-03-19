@@ -1,4 +1,5 @@
 //THIS NEEDS TO BE UPDATED TO REFERENCE THE NEW FONTELLO GLYPHS//
+
 $(document).ready(function () {
     $(".accordion-item > a").on("click", function () {
         if ($(this).hasClass("active")) {
@@ -16,3 +17,5 @@ $(document).ready(function () {
         }
     });
 });
+
+
